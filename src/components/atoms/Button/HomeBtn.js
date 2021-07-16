@@ -4,7 +4,7 @@ import styled from 'styled-components';
 let HomeBtn = styled.div`
     font-family: "Exo2-SemiBoldItalic";
     color: ${props=> props.theme.blue};
-    font-size: 3rem;
+    font-size: 6vh;
 `;
 
 export default HomeBtn;
