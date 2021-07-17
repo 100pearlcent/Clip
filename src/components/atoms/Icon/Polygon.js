@@ -1,8 +1,7 @@
-import { Fragment } from "react";
 import Icon from '../../../resources/icons/polygon.svg';
 
 const style = {
-    paddingBottom: '7vh'
+    paddingBottom: '5vh'
 }
 
 /* 역삼각형 아이콘 */
