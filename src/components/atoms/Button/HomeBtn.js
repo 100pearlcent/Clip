@@ -5,6 +5,7 @@ let HomeBtn = styled.div`
     font-family: "Exo2-SemiBoldItalic";
     color: ${props=> props.theme.blue};
     font-size: 6vh;
+    cursor: pointer;
 `;
 
 export default HomeBtn;

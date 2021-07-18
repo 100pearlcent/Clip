@@ -11,6 +11,7 @@ let StartBtn = styled.div`
     border: 0.2rem solid ${ props=> props.theme.red };
     border-radius: 5rem;
     padding: 0.3em;
+    cursor: pointer;
 `;
 
 export default StartBtn;
