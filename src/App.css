@@ -27,3 +27,13 @@
   font-family: "BlendaScript";
   src: url("../src/resources/fonts/BlendaScript.woff2");
 }
+
+@font-face {
+  font-family: "EliceDigitalBaeum_Regular";
+  src: url("../src/resources/fonts/EliceDigitalBaeum_Regular.woff2");
+}
+
+@font-face {
+  font-family: "EliceDigitalBaeum_Bold";
+  src: url("../src/resources/fonts/EliceDigitalBaeum_Bold.woff2");
+}
