@@ -29,11 +29,26 @@
 }
 
 @font-face {
-  font-family: "EliceDigitalBaeum_Regular";
+  font-family: "EliceDigitalBaeum-Regular";
   src: url("../src/resources/fonts/EliceDigitalBaeum_Regular.woff2");
 }
 
 @font-face {
-  font-family: "EliceDigitalBaeum_Bold";
+  font-family: "EliceDigitalBaeum-Bold";
   src: url("../src/resources/fonts/EliceDigitalBaeum_Bold.woff2");
+}
+
+@font-face {
+  font-family: "LeagueSpartan-Bold";
+  src: url("../src/resources/fonts/LeagueSpartan-Bold.woff2");
+}
+
+@font-face {
+  font-family: "Rubik-Regular";
+  src: url("../src/resources/fonts/Rubik-Regular.woff2");
+}
+
+@font-face {
+  font-family: "Inter-Medium";
+  src: url("../src/resources/fonts/Inter-Medium.woff2");
 }
