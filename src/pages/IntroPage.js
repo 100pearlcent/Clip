@@ -9,7 +9,7 @@ function IntroPage() {
     <FirstContent/>
     <SecondContent/>
     <Outro/>
-    </>
+</>
 }
 
 export default IntroPage;
