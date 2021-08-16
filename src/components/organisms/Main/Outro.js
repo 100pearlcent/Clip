@@ -1,20 +1,24 @@
 import Quote from "../../molecules/Main/Quote";
-import StartBtn from "../../atoms/Button/StartBtn";
+import RoundBtn from "../../atoms/Button/RoundBtn";
+import {Link} from "react-router-dom";
 
 const flex = {
-    display: "flex"
+    display: "flex",
+    width: '100vw',
+    height: '100vh'
 }
 
 const layout = {
-    margin: "0 auto",
+    margin: "10vh 20vh",
     marginTop: "80vh"
-
 }
 
 function Outro() {
     return <section style={flex}>
-        <Quote></Quote>
-        <StartBtn style={layout}>시 작 하 기</StartBtn>
+        <Quote/>
+        <Link to="./board">
+            <RoundBtn style={layout}>시 작 하 기</RoundBtn>
+        </Link>
     </section>;
 }
 
