@@ -18,17 +18,15 @@ const flex = {
 }
 
 function ToDoBoard() {
-
     const [todo, setTodo] = useState('');
 
-    /* 투두리스트 Context API */
     const dispatch = useToDoDispatch();
     const nextId = useToDoNextId();
     const todoInput = useRef();
 
     const onChangeT = e => setTodo(e.target.value);
     const onSubmitT = e => {
-        e.preventDefault(); // 새로고침 방지
+        e.preventDefault();
         dispatch({
             type: 'CREATE',
             todo: {
@@ -43,17 +41,16 @@ function ToDoBoard() {
     }
 
     return <div style={flex}>
-    <ListBox/>
-    <TaskLeftBox/>
-    <form onSubmit={onSubmitT}>
-        <Textfield
-            placeholder="Write Things To Do + ⏎"
-            maxLength="25"
-            onChange={onChangeT}
-            ref={todoInput}
-            style={margin}
-            />
-    </form>
+        <ListBox/>
+        <TaskLeftBox/>
+        <form onSubmit={onSubmitT}>
+            <Textfield
+                placeholder="Write Things To Do + ⏎"
+                maxLength="25"
+                onChange={onChangeT}
+                ref={todoInput}
+                style={margin}/>
+        </form>
     </div>
 }
 
