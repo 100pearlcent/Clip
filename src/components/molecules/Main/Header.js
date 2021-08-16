@@ -1,5 +1,6 @@
 import HomeButton from '../../atoms/Button/HomeBtn';
-import StartButton from "../../atoms/Button/StartBtn";
+import RoundBtn from "../../atoms/Button/RoundBtn";
+import {Link} from 'react-router-dom';
 
 const style = {
     display: 'flex',
@@ -8,12 +9,12 @@ const style = {
     padding: '8vh 10vh 5vh'
 };
 
-
-
 function Header() {
     return <header style={style}>
         <HomeButton>Clip</HomeButton>
-        <StartButton>시 작 하 기</StartButton>
+        <Link to="./board">
+            <RoundBtn color="red">시 작 하 기</RoundBtn>
+        </Link>
     </header>;
 }
 
