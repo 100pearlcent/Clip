@@ -1,12 +1,9 @@
 import light from "./images/light.svg"
 import graph from "./images/graph.svg";
 import window from "./images/window.svg";
-import home from "./icons/home_black.svg";
-import todo from "./icons/todo_black.svg";
-import memo from "./icons/memo_black.svg";
-import homeClicked from "./icons/home_blue.svg";
-import todoClicked from "./icons/todo_blue.svg";
-import memoClicked from "./icons/memo_blue.svg";
+import home from "./icons/home.svg";
+import todo from "./icons/todo.svg";
+import memo from "./icons/memo.svg";
 
 const title = [
     {
@@ -70,18 +67,15 @@ const checkMember = [
 const sideIcon = [
     {
         key: 0,
-        default: home,
-        clicked: homeClicked 
+        icon: home,
     },
     {
         key: 1,
-        default: todo,
-        clicked: todoClicked
+        icon: todo,
     },
     {
         key: 2,
-        default: memo,
-        clicked: memoClicked
+        icon: memo,
     }
 ];
 
