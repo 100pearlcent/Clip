@@ -6,8 +6,8 @@
 <img width="1049" alt="Screen Shot 2021-08-17 at 6 24 28 AM" src="https://user-images.githubusercontent.com/58822023/129631737-d5a5c6fd-ffb7-4683-8674-33cf66686468.png">
 <img width="1037" alt="Screen Shot 2021-08-17 at 6 24 37 AM" src="https://user-images.githubusercontent.com/58822023/129631774-7895da9f-dfcb-435a-91a7-9d4528006ce9.png">
 <img width="1054" alt="Screen Shot 2021-08-17 at 12 18 43 PM" src="https://user-images.githubusercontent.com/58822023/129658507-357acabd-b875-4de0-931a-db40409ca6ab.png">
-<img width="1065" alt="Screen Shot 2021-08-17 at 12 19 03 PM" src="https://user-images.githubusercontent.com/58822023/129658530-8fbf5205-d803-4e2e-b3c4-6a0a7290eaae.png">
 <img width="1130" alt="Screen Shot 2021-08-20 at 8 34 22 AM" src="https://user-images.githubusercontent.com/58822023/130157227-dfee0d00-5fc8-44ef-a70c-d3fe5e052a3e.png">
+<img width="1065" alt="Screen Shot 2021-08-17 at 12 19 03 PM" src="https://user-images.githubusercontent.com/58822023/129658530-8fbf5205-d803-4e2e-b3c4-6a0a7290eaae.png">
 <img width="1062" alt="Screen Shot 2021-08-17 at 12 19 09 PM" src="https://user-images.githubusercontent.com/58822023/129658557-b9e11086-2bd8-4ca8-a852-918f4a5be891.png">
 <img width="1060" alt="Screen Shot 2021-08-17 at 12 19 16 PM" src="https://user-images.githubusercontent.com/58822023/129658585-cae432b8-cf70-4fa4-923a-857c1f75aac0.png">
 <img width="1061" alt="Screen Shot 2021-08-17 at 12 19 24 PM" src="https://user-images.githubusercontent.com/58822023/129658618-82b683ae-6e22-4294-8655-a12f1deae353.png">
