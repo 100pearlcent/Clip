@@ -1,6 +1,6 @@
 # Clip
 
-<img width="747" alt="Screen Shot 2021-08-21 at 3 32 55 AM" src="https://user-images.githubusercontent.com/58822023/130278351-af7ca633-7bdf-4a98-8ab2-4971a30a42ac.png">
+<img width="944" alt="Screen Shot 2021-08-21 at 4 42 18 AM" src="https://user-images.githubusercontent.com/58822023/130285751-4fabb8c5-6deb-499c-a7fd-2d7e3c134e76.png">
 <img width="1045" alt="Screen Shot 2021-08-17 at 6 24 10 AM" src="https://user-images.githubusercontent.com/58822023/129631524-09023b67-54ef-43e2-a08a-ddb8cecef524.png">
 <img width="1035" alt="Screen Shot 2021-08-17 at 6 24 21 AM" src="https://user-images.githubusercontent.com/58822023/129631681-6e3138d0-14c7-4051-beef-107152f7f51e.png">
 <img width="1049" alt="Screen Shot 2021-08-17 at 6 24 28 AM" src="https://user-images.githubusercontent.com/58822023/129631737-d5a5c6fd-ffb7-4683-8674-33cf66686468.png">
