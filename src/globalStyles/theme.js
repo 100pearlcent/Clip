@@ -13,4 +13,4 @@ const colors = {
     yellow: "#FFEDA3"
 };
 
-export { colors };
+export default colors;

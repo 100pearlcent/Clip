@@ -1,5 +1,6 @@
 import {Route} from "react-router-dom";
 import {ThemeProvider} from "styled-components";
+import colors from "./globalStyles/theme";
 import './App.css';
 import GlobalStyle from "./globalStyles/GlobalStyle";
 import {ToDoProvider} from './ToDoContext';
@@ -13,7 +14,7 @@ import DashboardTodo from "./pages/DashboardTodo";
 const App = () => {
 
     return (
-        <ThemeProvider>
+        <ThemeProvider theme={colors}>
             <IconProvider>
                 <ToDoProvider>
                     <GlobalStyle/>
