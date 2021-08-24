@@ -10,11 +10,8 @@ import PartialShower from '../../../resources/lotties/partly-shower';
 import Snow from '../../../resources/lotties/snow';
 import Storm from '../../../resources/lotties/storm';
 
-// 날씨 API Key는 삭제 한 채로 업로드 했습니다
-// 포트폴리오의 스크린샷을 참고해주세요
-
 const api = {
-    key: "",
+    key: "process.env.REACT_APP_API_KEY",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
